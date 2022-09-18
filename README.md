@@ -61,6 +61,6 @@ I have expertise in System Design(LLD) and Design Patterns.<br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
 </div>
 
-
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praveengupta1701&layout=compact&theme=vision-friendly-dark)](https://github.com/praveengupta1701/github-readme-stats)
