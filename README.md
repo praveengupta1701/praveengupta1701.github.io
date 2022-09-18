@@ -36,7 +36,7 @@ I have expertise in System Design(LLD) and Design Patterns.<br>
 - HackerRank Advanced Problem Solving Certification<br>
 - :zap:I am an Enthusiastic team member, a fast learner of problem-solving skills, and have good coding with communication skills.<br>
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://github.com/praveengupta1701))
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://github.com/praveengupta1701)
 
 
 ---
