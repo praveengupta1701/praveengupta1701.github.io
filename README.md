@@ -23,4 +23,8 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
                                                                                                                    
-                                                                                                                   
+---
+
+### :man_technologist: About Me :  
+I am an extroverted programmer who has an interest in solving real-world problems and tries to be better each day.
+I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
