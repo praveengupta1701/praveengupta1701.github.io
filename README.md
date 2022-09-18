@@ -12,3 +12,6 @@
     <img src="https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=Mail&logoColor=white" alt="Mail Badge"/>
   </a>
 </div>
+<img src="https://komarev.com/ghpvc/?username=praveengupta1701&style=flat-square&color=blue" alt=""/>   
+                                                                                                                   
+                                                                                                                   
