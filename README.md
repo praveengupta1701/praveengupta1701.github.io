@@ -63,4 +63,4 @@ I have expertise in System Design(LLD) and Design Patterns.<br>
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username](https://github.com/praveengupta1701)&layout=compact&theme=vision-friendly-dark)](https://github.com/praveengupta1701/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praveengupta1701&layout=compact&theme=vision-friendly-dark)](https://github.com/praveengupta1701/github-readme-stats)
