@@ -9,6 +9,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:praveengupta.17jan@gmail.com">
-    <img src="https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Mail Badge"/>
+    <img src="https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=Mail&logoColor=white" alt="Mail Badge"/>
   </a>
 </div>
