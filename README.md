@@ -10,10 +10,10 @@
     <img src="https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=Mail&logoColor=white" alt="Mail Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=praveengupta1701&style=flat-square&color=blue" alt=""/>  
+<img src="https://komarev.com/ghpvc/?username=praveengupta1701&style=flat-square&color=blue" align="center" alt=""/>  
 <h1>
   Hi Everyone!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" align="center"/>
 </h1>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
