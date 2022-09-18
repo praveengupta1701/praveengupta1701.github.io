@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="[your-linkedin-UR](https://github.com/praveengupta1701)L">
+  <a href="[your-linkedin-UR](https://github.com/praveengupta1701)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:praveengupta.17jan@gmail.com">
@@ -27,4 +27,12 @@
 
 ### :man_technologist: About Me :  
 I am an extroverted programmer who has an interest in solving real-world problems and tries to be better each day.<br>
-I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.<br>
+I have 1+ years of working experience in C++ (OOPs), C, Java, Android Studio, and Shell Scripting.<br>
+I am interested in Data Structures, Algorithms, Database Management, Computer Networks, and Operating Systems.<br>
+Hands-on experience in Analysis, Development, and Implementation.<br>
+I have expertise in System Design(LLD) and Design Patterns.<br>
+HackerRank Advanced Problem Solving Certification<br>
+- :zap:I am an Enthusiastic team member, a fast learner of problem-solving skills, and have good coding with communication skills.<br>
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://github.com/praveengupta1701))
